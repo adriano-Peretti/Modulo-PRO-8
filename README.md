@@ -1,19 +1,20 @@
-# Mentorama-Unity-Avançado
+# Mentorama-Unity-AvanÃ§ado
 
-Curso: **Profissão Desenvolvedor de Games em Unity**<br/>
-Módulo: **Iluminação na Unity**<br/>
-Versão do Unity: **2021.3.7f1**<br/>
+Curso: **ProfissÃ£o Desenvolvedor de Games em Unity**<br/>
+MÃ³dulo: **IluminaÃ§Ã£o na Unity**<br/>
+VersÃ£o do Unity: **2021.3.7f1**<br/>
 
 
-## Módulo 8
+## MÃ³dulo 8
 
-Atividade do módulo:<br/>
+Atividade do mÃ³dulo:<br/>
 Iluminar a caverna<br/>
 [Arquivos da Atividade](https://github.com/adriano-Peretti/Modulo-PRO-8/tree/main/Files)
 
-<video src="Files/ProModulo08.mp4" controls="controls" style="max-width: 730px;"></video>
+
+https://user-images.githubusercontent.com/80107070/182943255-cbf2f2aa-8e3e-4194-a74a-8f03dbd57957.mp4
 
 
-Repositório: https://github.com/adriano-Peretti/Modulo-PRO-8
+RepositÃ³rio: https://github.com/adriano-Peretti/Modulo-PRO-8
 
 
