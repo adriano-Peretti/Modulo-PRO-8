@@ -9,11 +9,11 @@ Versão do Unity: **2021.3.7f1**<br/>
 
 Atividade do módulo:<br/>
 Iluminar a caverna<br/>
-[Arquivos da Atividade](https://github.com/adriano-Peretti/Cinemachine/tree/main/Files )
+[Arquivos da Atividade](https://github.com/adriano-Peretti/Modulo-PRO-8/tree/main/Files)
 
-<img src="/Files/Cinemachine.png" alt="project"/>
+<img src="/Files/ProModulo08.mp4" alt="project"/>
 
 
-Repositório: https://github.com/adriano-Peretti/Cinemachine
+Repositório: https://github.com/adriano-Peretti/Modulo-PRO-8
 
 
