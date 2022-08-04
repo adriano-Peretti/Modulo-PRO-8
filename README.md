@@ -11,7 +11,7 @@ Atividade do módulo:<br/>
 Iluminar a caverna<br/>
 [Arquivos da Atividade](https://github.com/adriano-Peretti/Modulo-PRO-8/tree/main/Files)
 
-<img src="/Files/ProModulo08.mp4" alt="project"/>
+<img src="/Files/ProModulo08.gif" alt="project"/>
 
 
 Repositório: https://github.com/adriano-Peretti/Modulo-PRO-8
